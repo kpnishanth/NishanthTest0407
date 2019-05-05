@@ -1,3 +1,0 @@
-AnotherFile.txt
-Test File.txt
-New Text Document.txt
